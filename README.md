@@ -84,7 +84,8 @@ OUTPUT:
 
 CLIENT:
 
-https://user-images.githubusercontent.com/115523484/241376801-7afccb10-1c14-4b33-a65c-091c25bd04bc.png
+![2client](https://github.com/MaheshMuthuL/STUDY-OF-SOCKET-PROGRAMMING-AND-CLIENT-SERVER-MODE/assets/135570619/4d3f0b3e-e5a6-4e93-a1b2-6b8b4b178830)
+
 
 
 
@@ -93,7 +94,10 @@ https://user-images.githubusercontent.com/115523484/241376801-7afccb10-1c14-4b33
 SERVER:
 
 
-https://user-images.githubusercontent.com/115523484/241376809-8bcee029-fd0e-4625-9190-45e789402ac3.png
+![2server](https://github.com/MaheshMuthuL/STUDY-OF-SOCKET-PROGRAMMING-AND-CLIENT-SERVER-MODE/assets/135570619/844263a3-673a-43b6-93cd-0f48e0574b6f)
+
+
+
 
 
 
